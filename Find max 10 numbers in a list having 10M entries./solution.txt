@@ -1,0 +1,5 @@
+solution 1
+we can maintain a minheap and insert first 10 values in it and then after moving pointer ahead can compare with the
+root element.this way we'll get top 10 largest numbers
+solution 2
+we can simply maitain an array of size 10 and keep iterating and find largest values
